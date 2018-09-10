@@ -15,3 +15,8 @@ Third step: Make and Commit changes
   Saved changes are commits
   changes made on feature branch will be separate from master
   
+Fourth step: Open a pull request
+  Requests feedback and review from others
+  Pull request shows diffs, in red and green
+  
+Fifth step: Merge your pull request
